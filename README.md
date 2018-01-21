@@ -1,24 +1,3 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# hype_city
+A webapp to expose all the hype news across world.
+>>>>>>> 1f8f48bd3e0ee69c8aa53d257271925db8391428
